@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (jlesage/filebot)
+# Title:      PGBlitz (starbix/filebot)
 # Author(s):  MrDoob
 # URL:        https://pgblitz.com - http://github.pgblitz.com
 # GNU:        General Public License v3.0
@@ -17,7 +17,7 @@
         extport: '5804'
         intport2: '5900'
         extport2: '5903'
-        image: 'jlesage/filebot'
+        image: 'starbix/filebot'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
